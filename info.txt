@@ -1,0 +1,5 @@
+// Game settings, use setup.exe to modify these;
+firsttime=0;
+playername=urpo;
+message=Not set jeejee;
+useinternet=1;
